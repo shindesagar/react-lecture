@@ -1,0 +1,53 @@
+
+html,body,#root{
+  width: 100%;
+  height: 100%;
+}
+*{
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+}
+.row{
+  max-width: 1310px;
+  margin: 0 auto;
+}
+.w-100{
+  width: 100%;
+}
+.float-left{
+  float: left;
+}
+.float-right{
+  float: right;
+}
+.py-0{
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+.colorWhite{
+  color:#fff;
+}
+.ml-20{
+  margin-left: 20px;
+}
+.formControle{
+  width:100%;
+  height:40px;
+  border-radius:5px;
+  margin-bottom: 15px;
+  padding:10px;
+  border:1px solid #000
+}
+
+.btn{
+  width:100px;
+  padding:10px;
+  font-size:16px;
+  color:#fff;
+  background:#000;
+  border:0;
+  cursor:pointer
+}
+

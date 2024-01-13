@@ -1,0 +1,26 @@
+/* Banner */
+.banner{
+    position: relative;
+}
+.banner figcaption{
+    position: absolute;
+    top: 15.5278vh;
+    left: 7.9167vw;
+}
+.banner figcaption h2{
+    font-size: 48px;
+    margin-bottom:20px ;
+}
+.banner figcaption h2 .top{
+    font-size: 28px;
+    display: block;
+}
+.banner figcaption h2 .bottom{
+    margin-top: 18px;
+    font-size: 14px;
+    display: block;
+    font-style: italic;
+}
+.banner figcaption .btn{
+    padding: 10px 20px;
+}

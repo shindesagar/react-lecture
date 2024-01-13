@@ -1,0 +1,15 @@
+.features{padding-top: 65px;}
+.features .box{
+    width: 33.3333%;
+    padding: 0 10px;
+}
+.features .box .innerBox{
+    padding: 20px;
+    border:1px solid #d8d6db;
+}
+.features .box .innerBox .ico{padding-right: 30px; align-items: center;justify-content: center;font-size: 30px;}
+.features .box .innerBox .text{font-size: 18px;}
+.features .box .innerBox .text span{font-size: 12px;display: block; color: #818285;margin-top:2px;}
+.features.category {padding-top: 30px; padding-bottom: 30px;}
+.features.category .box .innerBox{ border: 0;padding-bottom: 0;align-items: center;}
+.features.category .box .innerBox .btn{ padding:5px 10px; margin-top: 10px;}
